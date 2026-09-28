@@ -18,7 +18,7 @@ d8 e f4 f8 e d e c2. r8 r1
 a'2. f4 c'2 d8 c b a g2. e4 g1
 d2. d8 e f4 e d f e2. c4 g'1
 
-    c4
+  
   }
 
   \layout {}
