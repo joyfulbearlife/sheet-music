@@ -6,7 +6,7 @@
 }
 
 \score {
-  \relative c' {e16' e16 r16 e8 c16 e16 r16 g4 g,4
+  \relative c' {e16' e16 r16 e8 c16 e16 r16 g8 r8 g,8 r8
    c8. g8. e8. a8 b bes16 a r16
     
   }
